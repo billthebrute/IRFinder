@@ -1,0 +1,29 @@
+If you are having troubles with IRFinder please provide us with the following information
+
+Please provide the versions of the following:
+
+Linux distro:
+
+GCC:
+
+GLIBC (try to run `ldd --version` if you’re not sure):
+
+Perl:
+
+STAR:
+
+Samtools:
+
+Bedtools:
+
+IRFinder:
+
+ 
+
+Please provide the following information about the genome you are working on:
+
+Species:
+
+Genome size (size of unzipped FASTA file):
+
+Are you using a GTF from Ensembl or a customized GTF:
